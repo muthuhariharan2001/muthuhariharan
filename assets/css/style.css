@@ -279,10 +279,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     left:  0;
     width: 109%;
     height:  100%;
-    background: rgba(31,44,108,.3);
+    background: transparent;
 }
 .single-about-img img {
-    max-width: 500px;
+    width: 108%;
+    max-width: 700px;
     height: 468px;
 }
 .about-list-icon{
@@ -292,9 +293,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 109%;
+    width: 108%;
     height: 90px;
-    background: #1f2c6c;
+    background: #b636ff;
 }
 /*.ab-list-icon */
 .about-list-icon ul {
@@ -773,8 +774,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-contact-add-info p {
     color:  #999fb3;
-    font-size:  16px;
-    margin-top:  18px;
+    font-size: 16px;
+    margin-top: 18px;
 }
 .single-contact-add-info {
     margin-bottom:  26px;
