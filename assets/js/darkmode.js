@@ -14,7 +14,9 @@ let education = document.querySelectorAll('section');
       light();
     }
   }
+
   function darker () {
+
     document.body.style.color = "white";
     document.body.style.backgroundColor = "black";
   }

@@ -843,6 +843,17 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 }
 
+p span {
+    position: relative;
+    color: #666;
+    /* font-size: .5em; */
+    transition: 1s;
+}
+
+p span.active {
+    color: #9f00ff;
+}
+
 #scroll-Top  .return-to-top i{
     position: relative;
     animation-name: example;
